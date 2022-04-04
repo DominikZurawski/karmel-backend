@@ -28,9 +28,7 @@ pipeline {
                                 echo "Running the unit test..."
                            }
                            }
-                            stage('Integration test') {
-
-                                    }
+                            	
 
                            }
                            }
